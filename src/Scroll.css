@@ -1,0 +1,9 @@
+.scrollable{
+    overflow-y: auto;
+    border: 1px solid lightblue;
+    height: 500px;
+    padding-bottom: 50px;
+}
+::-webkit-scrollbar{
+    width: 1px;
+}

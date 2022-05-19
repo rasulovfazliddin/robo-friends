@@ -1,0 +1,10 @@
+.grov:hover{
+    cursor: pointer;
+    transform: scale(1.05);
+    transition: all 0.5s;
+}
+.grov:active{
+    cursor: pointer;
+    transform: scale(0.8);
+    transition: all 0.5s;
+}
